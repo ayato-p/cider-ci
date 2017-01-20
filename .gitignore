@@ -3,3 +3,5 @@ config/config.yml
 docker-deploy/
 log/
 /deploy_v4/
+/database
+/ui2
